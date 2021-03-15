@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hitung BMI</string>
+    <string name="copyright">aboutfragment</string>
+    <string name="aboutfragment">aboutfragment</string>
+    <string name="saran_ideal" />
+    <string name="bagikan" />
+    <string name="lihat_saran" />
+    <string name="hitung" />
+    <string name="wanita" />
+    <string name="pria" />
+    <string name="jenis_kelamin" />
+    <string name="tinggi_badan" />
+    <string name="berat_badan" />
+    <string name="bmi_intro" />
+    <string name="tentang_aplikasi" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kurus" />
+    <string name="ideal" />
+    <string name="gemuk" />
+    <string name="bagikan_template" />
+    <string name="kategori_x" />
+    <string name="bmi_x" />
+    <string name="gender_invalid" />
+    <string name="tinggi_invalid" />
+    <string name="berat_invalid" />
+    <string name="saran_gemuk" />
+    <string name="judul_gemuk" />
+    <string name="judul_ideal" />
+    <string name="saran_kurus" />
+    <string name="judul_kurus" />
+</resources>
